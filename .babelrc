@@ -1,0 +1,14 @@
+{
+  "presets": ["stage-0", "es2015", "react"],
+  "plugins": [
+    ["react-transform", {
+      "transforms": [
+        {
+          "transform": "/home/ccuser/.babelscripts/react-transform-component-exports",
+          "imports": ["react"],
+          "locals": ["module"]
+        }
+      ]
+    }]
+  ]
+}
