@@ -1,0 +1,103 @@
+@font-face {
+	font-family: 'GoodDog';
+	src: url('file:///Users/rosshill/Desktop/WTP Website/fonts/GoodDog.otf');}
+
+body {
+	background-image: url("file:///Users/rosshill/Desktop/WTP Website/images/small_steps.png");
+	background-attachment: fixed;
+	font-family: Arial, Verdana;
+	font-weight: bold;
+	text-decoration: none;}
+	
+img {
+	margin: 20px;}	
+
+#header {
+	width: 550px;
+	margin:12px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 52px;
+	text-align: center;
+	font-family: GoodDog, Verdana;
+	border: 4px double #000;
+	border-color: #000;
+	background-color: #99ffff;
+	background-color: hsla(0, 100%, 100%, 0.5);}
+	
+#content {
+	padding-top: 5px;
+	padding-left: 22px;
+	background-image: url("file:///Users/rosshill/Desktop/WTP Website/images/escheresque_ste.png");}
+		
+	
+#copyright {
+	margin-left: auto;
+	margin-right: auto;
+	width: 150px;}	
+	
+#links {
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;}	
+	
+.entry {
+	display:inline;
+	width: 253px;
+	height: 329px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:6px;
+	margin-bottom: 6px;
+	padding: 8px;}
+	
+	
+.footer {
+		}
+	
+	
+.nav {
+	width:400px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right:auto;
+	text-align: center;
+	background-color: #99ffff;
+	background-color: hsla(0, 100%, 100%, 0.5);}
+	
+.showswrapper {
+	margin-left: 60px;}	
+    
+.pic {
+	display:inline;
+	margin-left: auto;
+    margin-right:auto;}
+    
+iframe {
+    display:block;
+	margin-left: auto;
+    margin-right:auto;}   	    	
+	
+p#upnext {
+	text-transform: uppercase;
+	font-family: verdana;
+	color: #FFFFFF;
+	text-align: center;}	
+	
+	
+p#copyright {
+	background-color: #99ffff;
+	background-color: hsla(0, 100%, 100%, 0.5);
+	text-align: center;}
+	
+p#links {
+	background-color: #99ffff;
+	background-color: hsla(0, 100%, 100%, 0.5);
+	text-align: center;}		
+	
+a:link {
+	text-decoration: none;}
+	
+
+	 
+	
